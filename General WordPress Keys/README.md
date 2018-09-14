@@ -2,6 +2,10 @@
 
 These keys help you control general WordPress settings of your connected [MainWP Child sites](https://wordpress.org/plugins/mainwp-child/)
 
+## How to use this key
+
+You can paste this key directly into your Bulk Settings Manager using the [paste directions](https://mainwp.com/help/docs/bulk-settings-manager-extension/create-a-single-key/import-a-bulk-settings-manager-key/). 
+
 ## Things to do
 
 1. If your not sure what this does check the [Bulk Settings Key Readme](https://github.com/mainwp/Bulk-Setting-Manager-Keys/blob/master/README.md)
