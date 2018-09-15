@@ -1,4 +1,4 @@
-## Genesis settings key
+## Heartbeat Control settings key
 
 This file is a key for the settings of the [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/). 
 
