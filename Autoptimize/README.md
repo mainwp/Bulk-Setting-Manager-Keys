@@ -1,4 +1,4 @@
-## Autoptimize Purge cache settings key
+## Autoptimize purge cache settings key
 
 This file is a key for for the settings section of the [Autoptimize](https://wordpress.org/plugins/autoptimize/) plugin. 
 
