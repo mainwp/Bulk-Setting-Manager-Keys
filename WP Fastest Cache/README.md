@@ -1,6 +1,6 @@
-## WP Fastest Cache settings key
+## WP Fastest delete cache settings key
 
-This file is a key for the settings of the [Cache Enabler](https://wordpress.org/plugins/wp-fastest-cache/). 
+This file is a key for the delete cache settings of the [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/). 
 
 ## How to use this key
 
