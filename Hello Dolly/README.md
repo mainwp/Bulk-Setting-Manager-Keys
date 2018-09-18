@@ -1,6 +1,6 @@
-## Antispam Bee settings key
+## Hello Dolly settings key
 
-This file is a key for the deleting of [Hello Dolly](https://wordpress.org/plugins/hello-dolly/). 
+This file is a key for the deactivating of [Hello Dolly](https://wordpress.org/plugins/hello-dolly/). 
 
 ## How to use this key
 
