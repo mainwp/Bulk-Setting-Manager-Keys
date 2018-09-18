@@ -1,5 +1,7 @@
 ## Antispam Bee settings key
 
+Tested version of WordPress 4.9.8, plugin version was Antispam Bee 2.9.0
+
 This file is a key for the settings of the [Antispam Bee](https://wordpress.org/plugins/antispam-bee/). 
 
 ## How to use this key
