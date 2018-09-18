@@ -1,6 +1,8 @@
-## All in One SEO settings key
+## All in One SEO Pack settings key
 
-This file is a key for for the settings section of the [All in One SEO](https://wordpress.org/plugins/all-in-one-seo-pack/) plugin. 
+Tested version of WordPress 4.9.8, plugin version was All in One SEO Pack 2.8.
+
+This file is a key for for the settings section of the [All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/) plugin. 
 
 ## Things to do
 
