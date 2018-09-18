@@ -1,5 +1,7 @@
 ## Classic Editor settings key
 
+Tested version of WordPress 4.9.8, plugin version was Classic Editor 0.4.
+
 This file is a key for the settings of the [Classic Editor](https://wordpress.org/plugins/classic-editor/). 
 
 ## How to use this key
