@@ -1,5 +1,7 @@
 ## Autoptimize empty cache settings key
 
+Tested version of WordPress 4.9.8, plugin version was Cache Enabler 2.3.4.
+
 This file is a key for for the settings section of the [Autoptimize](https://wordpress.org/plugins/autoptimize/) plugin. 
 
 ## Things to do
