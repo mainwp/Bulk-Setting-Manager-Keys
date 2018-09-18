@@ -1,5 +1,7 @@
 ## WooCommerce settings keys
 
+Tested version of WordPress 4.9.8, plugin version was WooCommerce 3.4.5
+
 This file is a key for the different settings of [WooCommerce](https://wordpress.org/plugins/woocommerce/). 
 
 ## How to use this key
