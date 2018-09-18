@@ -1,4 +1,4 @@
-## Antispam Bee settings keys
+## WooCommerce settings keys
 
 This file is a key for the different settings of [WooCommerce](https://wordpress.org/plugins/woocommerce/). 
 
