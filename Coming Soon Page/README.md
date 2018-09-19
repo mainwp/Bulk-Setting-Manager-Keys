@@ -1,5 +1,8 @@
 ## Coming Soon Page & Maintenance Mode by SeedProd settings key
 
+Tested version of WordPress 4.9.8, plugin version was Download
+Coming Soon Page & Maintenance Mode by SeedProd 5.0.20.
+
 This file is a key for the settings of the [Coming Soon Page & Maintenance Mode by SeedProd](https://wordpress.org/plugins/coming-soon/). 
 
 ## How to use this key
