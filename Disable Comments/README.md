@@ -1,5 +1,7 @@
 ## Disable Comments settings key
 
+Tested version of WordPress 4.9.8, plugin version was Disable Comments 1.7.1.
+
 This file is a key for the settings of the [Disable Comments](https://wordpress.org/plugins/disable-comments/). 
 
 ## How to use this key
