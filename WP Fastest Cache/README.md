@@ -1,5 +1,7 @@
 ## WP Fastest delete cache settings key
 
+Tested version of WordPress 4.9.8, plugin version was WP Fastest Cache 0.8.8.4.
+
 This file is a key for the delete cache settings of the [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/). 
 
 ## How to use this key
