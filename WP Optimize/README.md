@@ -1,5 +1,7 @@
 ## WP Optimize settings key
 
+Tested version of WordPress 4.9.8, plugin version was WP optimize 2.2.4.
+
 This file is a key for deleting expired transients settings of the [WP Optimize](https://wordpress.org/plugins/wp-optimize/). 
 
 ## How to use this key
