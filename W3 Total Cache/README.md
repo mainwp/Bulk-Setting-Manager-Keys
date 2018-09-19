@@ -1,5 +1,7 @@
 ## W3 Total Cache
 
+Tested version of WordPress 4.9.8, plugin version was W3 Total Cache 0.9.7.
+
 This file is a key for clearning all the caches from [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) plugin. 
 
 ## How to use this key
