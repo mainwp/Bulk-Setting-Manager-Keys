@@ -1,5 +1,7 @@
 ## WP Super Cache delete cache settings key
 
+Tested version of WordPress 4.9.8, plugin version was WP Super Cache 1.6.4.
+
 This file is a key for the delete cache settings of the [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/). 
 
 ## How to use this key
