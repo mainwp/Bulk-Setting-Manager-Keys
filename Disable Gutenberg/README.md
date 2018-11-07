@@ -1,6 +1,6 @@
 ## Disable Gutenberg settings key
 
-Tested version of WordPress 4.9.8, plugin version was Disable Gutenberg 1.2.
+Tested version of WordPress 4.9.8, plugin version was Disable Gutenberg 1.3.1.
 
 This file is a key for for the settings section of the [Disable Gutenberg](https://wordpress.org/plugins/disable-gutenberg/) plugin. 
 
