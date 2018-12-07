@@ -1,8 +1,8 @@
-## Classic Editor settings key
+## Classic Editor - Disallow Users to Switch Editors
 
-Tested version of WordPress 4.9.8, plugin version was Classic Editor 0.4.
+Tested version of WordPress 5.0, plugin version was Classic Editor 1.1.
 
-This file is a key for the settings of the [Classic Editor](https://wordpress.org/plugins/classic-editor/). 
+This file is a key for the settings of the [Classic Editor](https://wordpress.org/plugins/classic-editor/). The key is set to disallow users to switch editors.
 
 ## How to use this key
 
