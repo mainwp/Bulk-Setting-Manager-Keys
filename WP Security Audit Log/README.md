@@ -2,7 +2,7 @@
 
 Tested version of WordPress 5.0.2, plugin version was WP Security Audit Log 3.3.0.2.
 
-This file is a key for the settings of the [WP Security Audit Log](https://wordpress.org/plugins/wp-security-audit-log/). 
+These files are keys for the settings of the [WP Security Audit Log](https://wordpress.org/plugins/wp-security-audit-log/). 
 
 ## How to use this key
 
