@@ -2,7 +2,7 @@
 
 Tested version of WordPress 5.1.1, plugin version was Inactive Logout plugin 1.8.4.
 
-This file is a key logout time settings of the [Inactive Logout](https://wordpress.org/plugins/inactive-logout/) plugin. 
+These files are keys to change the logout time settings of the [Inactive Logout](https://wordpress.org/plugins/inactive-logout/) plugin. 
 
 ## Things to do
 
