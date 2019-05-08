@@ -2,7 +2,7 @@
 
 Tested version of WordPress 5.2, plugin version was Site Health Tool Manager 1.0.
 
-This file is a key for the settings tests of the [Site Health Tool Manager](https://wordpress.org/plugins/site-health-tool-manager/). 
+This file is a key for excluding tests of the Site Health feature introduced in WordPress 5.2 using the [Site Health Tool Manager](https://wordpress.org/plugins/site-health-tool-manager/). 
 
 ## How to use this key
 
