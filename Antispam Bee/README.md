@@ -1,8 +1,8 @@
-## Antispam Bee settings key
+## WPS Limit Login settings key
 
-Tested version of WordPress 5.2, plugin version was Antispam Bee 2.9.1.
+Tested version of WordPress 5.2, plugin version was WPS Limit Login 1.4.5.
 
-This file is a key for the settings of the [Antispam Bee](https://wordpress.org/plugins/antispam-bee/). 
+This file is a key for the settings of the [WPS Limit Login](https://wordpress.org/plugins/wps-limit-login/). 
 
 ## How to use this key
 
