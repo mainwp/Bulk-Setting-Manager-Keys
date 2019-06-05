@@ -1,6 +1,6 @@
 ## Speed Booster Pack settings key
 
-Tested version of WordPress 5.2.1, plugin version was Speed Booster Pack 3.8.1.
+Tested version of WordPress 5.2.1, plugin version was Speed Booster Pack 3.8.2.1.
 
 This file is a key for the settings of the [Speed Booster Pack](https://wordpress.org/plugins/speed-booster-pack/). 
 
