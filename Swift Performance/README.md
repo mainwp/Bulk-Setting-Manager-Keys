@@ -1,6 +1,6 @@
 ## Swift Performance settings key
 
-Tested version of WordPress 4.9.8, plugin version was Swift Performance Lite 1.8.5.
+Tested version of WordPress 5.2.4 plugin version was Swift Performance Lite 2.1.1.
 
 This file is a key for for the settings section of the [Swift Performance Lite](https://wordpress.org/plugins/swift-performance-lite/) plugin. 
 
