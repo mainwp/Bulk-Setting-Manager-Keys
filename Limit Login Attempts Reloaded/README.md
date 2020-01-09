@@ -1,6 +1,6 @@
 ## Limit Login Attempts Reloaded settings key
 
-Tested version of WordPress 5.2.1, plugin version was Limit Login Attempts Reloaded 2.8.1.
+Tested version of WordPress 5.3.2, plugin version was Limit Login Attempts Reloaded 2.10.0.
 
 This file is a key for for the settings section of the [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) plugin. 
 
