@@ -1,6 +1,6 @@
 ## Cache Enabler settings key
 
-Tested version of WordPress 4.9.8, plugin version was Cache Enabler 1.3.1.
+Tested version of WordPress 5.3.2, plugin version was Cache Enabler 1.3.4.
 
 This file is a key for the settings of the [Cache Enabler](https://wordpress.org/plugins/cache-enabler/). 
 
