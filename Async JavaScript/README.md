@@ -1,6 +1,6 @@
 ## Async JavaScript settings key
 
-Tested version of WordPress 5.4.2, plugin version was Async JavaScript 2.20.03.01.
+Tested version of WordPress 5.5, plugin version was Async JavaScript 2.20.03.01.
 
 This file is a key for for the settings section of the [Async JavaScript](https://wordpress.org/plugins/async-javascript/) plugin. 
 
