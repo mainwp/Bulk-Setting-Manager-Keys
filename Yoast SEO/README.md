@@ -1,6 +1,6 @@
 ## Yoast SEO settings keys
 
-Tested version of WordPress 5.5, plugin version was Yoast SEO 14.7.
+Tested version of WordPress 5.5, plugin version was Yoast SEO 14.8.
 
 This file is a key for the different settings of [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/). 
 
