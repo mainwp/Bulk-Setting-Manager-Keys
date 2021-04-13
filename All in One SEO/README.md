@@ -1,6 +1,6 @@
 ## All in One SEO Pack settings key
 
-Tested version of WordPress 4.9.8, plugin version was All in One SEO Pack 2.8.
+Tested version of WordPress 5.7, plugin version was All in One SEO Pack 4.1.0.1.
 
 This file is a key for for the settings section of the [All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/) plugin. 
 
