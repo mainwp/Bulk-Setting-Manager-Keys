@@ -1,6 +1,6 @@
 ## WP Optimize settings key
 
-Tested version of WordPress 5.5, plugin version was WP optimize 3.1.2
+Tested version of WordPress 5.7, plugin version was WP optimize 3.1.8.
 
 This file is a key for deleting expired transients settings of the [WP Optimize](https://wordpress.org/plugins/wp-optimize/). 
 
