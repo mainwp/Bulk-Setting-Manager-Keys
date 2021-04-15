@@ -1,6 +1,6 @@
 ## Rank Math SEO settings keys
 
-Tested version of WordPress 5.7, plugin version was Rank Math SEO 1.0.61.1.
+Tested version of WordPress 5.7, plugin version was Rank Math SEO 1.0.62.
 
 This file is a key for the different settings of [Rank Math SEO](https://wordpress.org/plugins/seo-by-rank-math/). 
 
