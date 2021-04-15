@@ -1,6 +1,6 @@
 ## Autoptimize empty cache settings key
 
-Tested version of WordPress 4.9.8, plugin version was Autoptimize 2.3.4.
+Tested version of WordPress 5.7, plugin version was Autoptimize 2.8.3.
 
 This file is a key for for the settings section of the [Autoptimize](https://wordpress.org/plugins/autoptimize/) plugin. 
 
