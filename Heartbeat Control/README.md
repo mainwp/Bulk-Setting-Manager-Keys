@@ -1,6 +1,6 @@
 ## Heartbeat Control settings key
 
-Tested version of WordPress 4.9.8, plugin version was Heartbeat Control 1.2.5.
+Tested version of WordPress 5.7, plugin version was Heartbeat Control 2.0.
 
 This file is a key for the settings of the [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/). 
 
