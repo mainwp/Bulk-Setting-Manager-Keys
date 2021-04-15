@@ -2,7 +2,7 @@
 
 Tested version of WordPress 5.7, plugin version Lazy Load - Optimize Images 2.3.4.
 
-This file is a key for for the settings section of the [Lazy Load by WP Rocket](https://wordpress.org/plugins/rocket-lazy-load/) plugin. 
+This file is a key for for the settings section of the [Lazy Load - Optimize Images](https://wordpress.org/plugins/rocket-lazy-load/) plugin. 
 
 ## Things to do
 
