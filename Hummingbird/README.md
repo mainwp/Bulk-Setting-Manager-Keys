@@ -1,6 +1,6 @@
 ## Hummingbird settings key
 
-Tested version of WordPress 4.9.8, plugin version was Hummingbird 1.9.2.
+Tested version of WordPress 5.7, plugin version was Hummingbird 2.7.2.
 
 This file is a key for for the settings section of the [Hummingbird](https://wordpress.org/plugins/hummingbird-performance/) plugin. 
 
