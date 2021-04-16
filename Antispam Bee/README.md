@@ -1,6 +1,6 @@
 ## Antispam Bee settings key
 
-Tested version of WordPress 5.5, plugin version was Antispam Bee 2.9.2.
+Tested version of WordPress 5.7.1, plugin version was Antispam Bee 2.9.4.
 
 This file is a key for the settings of the [Antispam Bee](https://wordpress.org/plugins/antispam-bee/). 
 
