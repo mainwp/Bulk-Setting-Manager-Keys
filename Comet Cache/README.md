@@ -1,6 +1,6 @@
 ## Comet Cache settings key
 
-Tested version of WordPress 4.9.8, plugin version was Comet Cache 170220.
+Tested version of WordPress 5.7.1, plugin version was Comet Cache 170220.
 
 This file is a key for for the settings section of the [Comet Cache](https://wordpress.org/plugins/comet-cache/) plugin. 
 
