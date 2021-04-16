@@ -1,6 +1,6 @@
 ## Beaver Builder empty cache settings key
 
-Tested version of WordPress 5.4.2, plugin version was Beaver Builder Plugin (Lite Version) 2.3.2.5.
+Tested version of WordPress 5.7.1, plugin version was Beaver Builder Plugin (Lite Version) 2.4.2.2.
 
 This file is a key for for the empty cache settings of the [Beaver Builder](https://wordpress.org/plugins/beaver-builder-lite-version/) plugin. 
 
