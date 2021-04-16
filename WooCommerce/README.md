@@ -1,6 +1,6 @@
 ## WooCommerce settings keys
 
-Tested version of WordPress 5.7, plugin version was WooCommerce 5.2.0.
+Tested version of WordPress 5.7, plugin version was WooCommerce 5.2.2.
 
 This file is a key for the different settings of [WooCommerce](https://wordpress.org/plugins/woocommerce/). 
 
