@@ -1,6 +1,6 @@
 ## Advanced Database Cleaner settings key
 
-Tested version of WordPress 5.2, plugin version was Advanced Database Cleaner 2.0.0.
+Tested version of WordPress 5.7.1, plugin version was Advanced Database Cleaner 3.0.3.
 
 This file is a key for for the settings section of the [Advanced Database Cleaner](https://wordpress.org/plugins/advanced-database-cleaner/) plugin. 
 
