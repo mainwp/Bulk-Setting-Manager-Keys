@@ -1,6 +1,6 @@
 ## Elementor settings key
 
-Tested version of WordPress 5.4.2, plugin version was Elementor 2.9.14.
+Tested version of WordPress 5.7.1, plugin version was Elementor 3.2.1.
 
 This file is a key for the settings of the [Elementor](https://wordpress.org/plugins/elementor/). 
 
